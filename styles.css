@@ -55,7 +55,7 @@ label {
 input,
 textarea,
 select {
-  width: 100%;
+  width: 80%;
   padding: var(--input-padding);
   margin-bottom: 18px;
   font-size: 1em;
